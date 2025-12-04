@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class OneDaks {
+public class oneyet {
     public static void main(String[] args) {
         int number = -1;
 
