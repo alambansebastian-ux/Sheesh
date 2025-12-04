@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class etinadhana {
+public class ehtenyarn {
     public static void main(String[] args) {
         int[] arr = {4, 2, 5, 7, 2, 9};
         boolean dup = false;
