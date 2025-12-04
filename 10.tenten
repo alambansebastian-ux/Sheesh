@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class O10 {
+public class tenten {
     public static void main(String[] args) {
         int[] arr = {5, 9, 3, 2, 7};
         int index = -1;
