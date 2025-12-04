@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Tweeny {
+public class towentyyarn {
     public static void main(String[] args) {
         int[] arr = {5, 22, 30, 7, 40, 15, 18};
         String result = "";
