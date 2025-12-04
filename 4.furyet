@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class FourYou {
+public class furyet {
     public static void main(String[] args) {
         int[] arr = new int[5];
 
