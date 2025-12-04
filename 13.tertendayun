@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class swerting {
+public class tertendayun {
     public static void main(String[] args) {
         int[] grades = {90, 40, 75, 60, 88};
         int pass = 0, fail = 0;
