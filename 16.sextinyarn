@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class sexTeen1 {
+public class sextinyarn {
     public static void main(String[] args) {
         String num = JOptionPane.showInputDialog("Enter a number:");
 
