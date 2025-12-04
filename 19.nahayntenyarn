@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class nighteengle {
+public class nahayntenyarn {
     public static void main(String[] args) {
         String[] names = {"Anna", "Ben", "Chris", "Dana"};
         int[] grades = {85, 90, 78, 92};
