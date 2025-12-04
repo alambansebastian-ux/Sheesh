@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class FishTing {
+public class paybyet {
     public static void main(String[] args) {
         int[] arr = {3, 8, 12, 5, 7, 20, 9};
         
